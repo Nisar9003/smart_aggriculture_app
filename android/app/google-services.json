@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24552922468",
+    "project_id": "smart-agriculture-app-5d157",
+    "storage_bucket": "smart-agriculture-app-5d157.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24552922468:android:38246bacaa647d3da3ee71",
+        "android_client_info": {
+          "package_name": "com.example.smart_agri_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwjDSGobbsT_dXRXSlMMTeZCnUjPfVQ1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
